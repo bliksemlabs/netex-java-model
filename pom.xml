@@ -68,7 +68,7 @@
 
         <!-- Other dependencies versions -->
         <slf4j.version>1.7.36</slf4j.version>
-        <commons-lang3.version>3.12.0</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <jaxb2-basics.version>1.11.1</jaxb2-basics.version>
 
         <!-- Unit test frameworks versions -->
