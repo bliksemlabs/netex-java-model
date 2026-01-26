@@ -72,7 +72,7 @@
         <jaxb2-basics.version>1.11.1</jaxb2-basics.version>
 
         <!-- Unit test frameworks versions -->
-        <assertj.core.version>3.22.0</assertj.core.version>
+        <assertj.core.version>3.27.7</assertj.core.version>
         <junit.version>5.8.2</junit.version>
 
         <!-- Maven plugin versions  -->
